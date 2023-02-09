@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm rgonfire 🔥</h1>
-<h3 align="center">A passionate frontend developer obsessed with design.</h3>
+<h1>Hi 👋, I'm rgonfire 🔥</h1>
+<h3">A passionate frontend developer obsessed with design.</h3>
 
 - 🔭 I’m currently working on [antimaistros](https://github.com/rgonfire/antimaistros)
 
