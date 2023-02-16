@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm rgonfire 🔥</h1>
 <h3">A passionate frontend developer obsessed with design.</h3>
 
-- 🔭 I’m currently working on [antimaistros](https://github.com/rgonfire/antimaistros)
+- 🔭 I’m currently working on [ui_on_fire](https://github.com/rgonfire/ui_on_fire)
 
-- 🌱 I’m currently learning **redux toolkit**
+- 🌱 I’m currently learning **rollup**
 
-- 👨‍💻 All of my projects are available at [raulgasa.com](raulgasa.com)
+- 👨‍💻 All of my projects will be availables at [raulgasa.com](raulgasa.com)
 
-- 💬 Ask me about **web design (picky designer here)**
+- 💬 Ask me about **web design (picky designer here), animation**
 
 - 📫 How to reach me **raulgasa1997@gmail.com**
 
