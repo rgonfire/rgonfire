@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects will be availables at [raulgasa.com](raulgasa.com)
 
-- 💬 Ask me about **web design (picky designer here), animation**
+- 💬 Ask me about **web design (picky designer here)
 
 - 📫 How to reach me **raulgasa1997@gmail.com**
 
