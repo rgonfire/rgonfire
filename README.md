@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **rollup js**
 
-- 👨‍💻 All of my projects will be availables at [raulgasa.com](raulgasa.com)
+- 👨‍💻 All of my projects will be availables at [rgonfire.com](rgonfire.com)
 
-- 💬 Ask me about **web design (picky designer here)
+- 💬 Ask me about **web design (picky designer here)**
 
 - 📫 How to reach me **raulgasa1997@gmail.com**
 
