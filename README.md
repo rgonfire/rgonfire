@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ui_on_fire](https://github.com/rgonfire/ui_on_fire)
 
-- 🌱 I’m currently learning **rollup js**
+- 🌱 I’m currently learning **redux toolkit**
 
 - 👨‍💻 All of my projects will be availables at [rgonfire.com](https://rgonfire.com)
 
