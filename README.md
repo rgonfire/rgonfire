@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **rollup js**
 
-- 👨‍💻 All of my projects will be availables at [rgonfire.com](rgonfire.com)
+- 👨‍💻 All of my projects will be availables at [rgonfire.com](https://rgonfire.com)
 
 - 💬 Ask me about **web design (picky designer here)**
 
