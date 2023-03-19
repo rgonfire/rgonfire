@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm rgonfire 🔥</h1>
 <h3">A passionate frontend developer obsessed with design.</h3>
 
-- 🔭 I’m currently working on [ui_on_fire](https://github.com/rgonfire/ui_on_fire)
+- 🔭 I’m currently working on [ui_on_fire](https://www.npmjs.com/package/ui-on-fire) and [antimaistros](https://github.com/rgonfire/antimaistros)
 
 - 🌱 I’m currently learning **redux toolkit**
 
