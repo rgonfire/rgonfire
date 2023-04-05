@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm rgonfire 🔥</h1>
 <h3">A passionate frontend developer obsessed with design.</h3>
 
-- 🔭 I’m currently working on [UI ON FIRE](https://www.npmjs.com/package/ui-on-fire) and [ANTIMAISTROS | ECOMMERCE](https://github.com/rgonfire/antimaistros)
+- 🔭 I’m currently working on te v2 of [EVIDENCE](https://www.evidencetec.com/?lang=es)
 
-- 🌱 I’m currently learning **redux toolkit**
+- 🌱 I’m currently learning **Vanilla JS** 
 
 - 👨‍💻 All of my projects will be availables at [rgonfire.com](https://rgonfire.com)
 
