@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm rgonfire 🔥</h1>
 <h3">A passionate frontend developer obsessed with design.</h3>
 
-- 🔭 I’m currently working on te v2 of [EVIDENCE](https://www.evidencetec.com/?lang=es)
+- 🔭 I’m currently working on the v2 of [EVIDENCE](https://www.evidencetec.com/?lang=es)
 
 - 🌱 I’m currently learning **Vanilla JS** 
 
