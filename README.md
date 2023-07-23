@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [CV](https://docs.google.com/document/d/1KC0lWX8c7fE7AtmYb_h81pbpjLUwEBOa0Y_2I7uM3G0/edit?usp=sharing)
 
-- ⚡ Fun fact **I enjoy more to be with people than alone but, i have a serious face 😜**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rgonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rgonfire" height="30" width="40" /></a>
